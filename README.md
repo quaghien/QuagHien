@@ -90,6 +90,28 @@
   </a>
 </p>
 
+<!-- Contribution Stats Section -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <h2>676</h2>
+        <p>Total Contributions</p>
+        <p>Dec 1, 2020 - Present</p>
+      </td>
+      <td align="center" style="padding: 20px; border-left: 1px solid #e1e4e8; border-right: 1px solid #e1e4e8;">
+        <h2 style="color: orange;">0</h2>
+        <p style="color: orange;">Current Streak</p>
+        <p>Sep 25</p>
+      </td>
+      <td align="center" style="padding: 20px;">
+        <h2>14</h2>
+        <p>Longest Streak</p>
+        <p>Oct 12, 2022 - Oct 25, 2022</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <!---
