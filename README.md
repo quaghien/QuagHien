@@ -46,14 +46,20 @@
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
-  <!-- Langchain -->
-  <img src="https://avatars.githubusercontent.com/u/106315737?s=200&v=4" alt="Langchain" width="40" height="40"/>
-
-  <!-- Llama Index -->
-  <img src="https://avatars.githubusercontent.com/u/111636821?s=200&v=4" alt="Llama Index" width="40" height="40"/>
-
-  <!-- Triton Server -->
-  <img src="https://developer.nvidia.com/sites/default/files/akamai/triton_horizontal_rgb_500.png" alt="Triton Server" width="40" height="40"/>
+  <!-- OpenCV -->
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_Logo.png" alt="OpenCV" width="40" height="40"/>
+  
+  <!-- SQL Server -->
+  <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL Server" width="40" height="40"/>
+  
+  <!-- scikit-learn -->
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
+  
+  <!-- pandas -->
+  <img src="https://pandas.pydata.org/static/img/pandas_logo.png" alt="pandas" width="40" height="40"/>
+  
+  <!-- seaborn -->
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
 <!---
