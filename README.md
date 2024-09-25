@@ -11,9 +11,49 @@
   <a href="https://www.linkedin.com/in/hien-ho-quang/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.facebook.com/your-profile" target="blank">
+  <a href="https://www.facebook.com/204hqh203" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" width="40" />
   </a>
+</p>
+
+## Languages and Tools:
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+
+  <!-- Keras -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+  <!-- Langchain -->
+  <img src="https://avatars.githubusercontent.com/u/106315737?s=200&v=4" alt="Langchain" width="40" height="40"/>
+
+  <!-- Llama Index -->
+  <img src="https://avatars.githubusercontent.com/u/111636821?s=200&v=4" alt="Llama Index" width="40" height="40"/>
+
+  <!-- Triton Server -->
+  <img src="https://developer.nvidia.com/sites/default/files/akamai/triton_horizontal_rgb_500.png" alt="Triton Server" width="40" height="40"/>
 </p>
 
 <!---
