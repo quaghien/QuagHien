@@ -64,14 +64,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="OpenCV" width="40" height="40"/>
-  </a>
-  
   <!-- SQL Server -->
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
     <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL Server" width="40" height="40"/>
+  </a>
+  
+  <!-- OpenCV -->
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="OpenCV" width="40" height="40"/>
   </a>
 
   <!-- scikit-learn -->
