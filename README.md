@@ -2,7 +2,7 @@
 
 <p align="center"><b>👀 I’m interested in AI, LLM 🔥🔥🔥<b></p>
   
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Artificial Intelligence - FPTU
   
 - 📫 How to reach me [hienhq.ai@gmail.com](mailto:hienhq.ai@gmail.com)
 
