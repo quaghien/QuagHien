@@ -119,7 +119,7 @@
 
   <!-- scikit-learn -->
   <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
   </a>
 
   <!-- pandas -->
