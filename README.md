@@ -45,9 +45,6 @@
 
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-
-  <!-- OpenCV -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
   
   <!-- SQL Server -->
   <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL Server" width="40" height="40"/>
@@ -62,33 +59,6 @@
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
-
-<p>
-  <!-- OpenCV -->
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" target="_blank">
-    <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL Server" width="40" height="40"/>
-  </a>
-
-  <!-- scikit-learn -->
-  <a href="https://scikit-learn.org/stable/" target="_blank">
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
-  </a>
-
-  <!-- pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
-  </a>
-
-  <!-- seaborn -->
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-</p>
 
 <!---
 QuagHien/QuagHien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
