@@ -16,12 +16,6 @@
   </a>
 </p>
 
-# Connect with me:
-
-[![Facebook](https://image-url-for-facebook)](https://www.facebook.com/your-profile)
-[![Instagram](https://image-url-for-instagram)](https://www.instagram.com/your-profile)
-
-
 ## Languages and Tools:
 
 <p align="left">
@@ -53,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 
   <!-- OpenCV -->
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_Logo.png" alt="OpenCV" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
   
   <!-- SQL Server -->
   <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL Server" width="40" height="40"/>
@@ -62,7 +56,7 @@
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
   
   <!-- pandas -->
-  <img src="https://pandas.pydata.org/static/img/pandas_logo.png" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   
   <!-- seaborn -->
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
