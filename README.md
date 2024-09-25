@@ -109,7 +109,7 @@
 
   <!-- OpenCV -->
   <a href="https://opencv.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text_svg_version.svg" alt="OpenCV" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" alt="OpenCV" width="40" height="40"/>
   </a>
   
   <!-- SQL Server -->
@@ -132,6 +132,7 @@
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <!---
