@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @QuagHien</h1>
 
-<p align="center">👀 **I’m interested in AI, LLM** 🔥🔥🔥</p>
+<p align="center"><b>👀 I’m interested in AI, LLM 🔥🔥🔥<b></p>
   
 - 🌱 I’m currently learning Artificial Intelligence
   
