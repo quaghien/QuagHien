@@ -1,5 +1,5 @@
-# 👋 Hi, I’m @QuagHien
-## 👀 I’m interested in AI, LLM
+<h1 align="center">👋 Hi, I’m @QuagHien</h1>
+- 👀 I’m interested in AI, LLM
 - 🌱 I’m currently learning Artificial Intelligence
 - 📫 How to reach me hienhq.ai@gmail.com
 
