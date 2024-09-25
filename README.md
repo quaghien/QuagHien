@@ -16,6 +16,12 @@
   </a>
 </p>
 
+# Connect with me:
+
+[![Facebook](https://image-url-for-facebook)](https://www.facebook.com/your-profile)
+[![Instagram](https://image-url-for-instagram)](https://www.instagram.com/your-profile)
+
+
 ## Languages and Tools:
 
 <p align="left">
