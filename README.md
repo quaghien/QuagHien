@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @QuagHien</h1>
+<h1 align="center">👋 Hi, I’m @QuangHien</h1>
 
 <p align="center"><b> Dynamic AI Engineer in Natural Language Processing (NLP) & Computer Vision (CV)<b></p>
   
