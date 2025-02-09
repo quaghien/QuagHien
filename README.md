@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I’m @QuagHien</h1>
 
-<p align="center"><b>👀 I’m interested in LLM 🔥🔥🔥<b></p>
+<p align="center"><b> Dynamic AI Engineer in Natural Language Processing (NLP) & Computer Vision (CV)<b></p>
   
-- 🌱 I’m currently learning Artificial Intelligence - FPTU
   
-- 📫 How to reach me [hienhq.ai@gmail.com](mailto:hienhq.ai@gmail.com)
+- 📫 How to reach me [hqh2042003@gmail.com](mailto:hqh2042003@gmail.com)
 
 ## Connect with me:
 <p align="left">
@@ -22,11 +21,6 @@
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <!-- C -->
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
 
   <!-- C++ -->
@@ -62,11 +56,6 @@
   <!-- Linux -->
   <a href="https://www.kernel.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-    <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="SQL Server" width="40" height="40"/>
   </a>
   
   <!-- OpenCV -->
