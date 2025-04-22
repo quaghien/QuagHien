@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @QuangHien</h1>
 
-<p align="center"><b> Dynamic AI Engineer in Natural Language Processing (NLP) & Computer Vision (CV)<b></p>
+<p align="center"><b> AI Engineer in Natural Language Processing (NLP), RAG & Agentic application
   
   
 - 📫 How to reach me [hqh2042003@gmail.com](mailto:hqh2042003@gmail.com)
