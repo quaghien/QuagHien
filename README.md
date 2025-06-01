@@ -3,7 +3,7 @@
 <p align="center"><b> AI Engineer in Natural Language Processing (NLP), LLM, RAG & Agentic AI
   
   
-- 📫 How to reach me [hqh2042003@gmail.com](mailto:hqh2042003@gmail.com)
+- 📫 How to reach me [hienhq.ai@gmail.com](mailto:hienhq.ai@gmail.com)
 
 ## Connect with me:
 <p align="left">
