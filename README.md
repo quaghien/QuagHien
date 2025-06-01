@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @QuangHien</h1>
 
-<p align="center"><b> AI Engineer in Natural Language Processing (NLP), RAG & Agentic application
+<p align="center"><b> AI Engineer in Natural Language Processing (NLP), LLM, RAG & Agentic AI
   
   
 - 📫 How to reach me [hqh2042003@gmail.com](mailto:hqh2042003@gmail.com)
