@@ -8,10 +8,10 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/hien-ho-quang/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://www.facebook.com/204hqh203" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
   </a>
 </p>
 
