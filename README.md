@@ -6,10 +6,10 @@
 ---
 
 ## About Me
-- 🤖 **Research Assistant @ [AI Viet Nam](https://web.facebook.com/aivietnam.edu.vn)** — focusing on Imitation Learning (IL), Reinforcement Learning (RL), and Conditional MDPs for robotics
-- 🔬 **Teaching Assistant @ [AI Viet Nam](https://web.facebook.com/aivietnam.edu.vn)** — building lecture materials, tutorials across ML, CV, NLP, GenAI, RAG, Agents, and more
-- 💬 **AI Technical Mentor @ [Funix](https://web.facebook.com/funix.fpt)** — I enjoy breaking down complex ideas and helping others navigate the AI/ML landscape
-- 🛠️ **LLM Engineer** — built RAG systems, Agentic AI pipelines, and multimodal analytics
+- **Research Assistant @ [AI Viet Nam](https://web.facebook.com/aivietnam.edu.vn)** — focusing on Imitation Learning (IL), Reinforcement Learning (RL), and Conditional MDPs for robotics
+- **Teaching Assistant @ [AI Viet Nam](https://web.facebook.com/aivietnam.edu.vn)** — building lecture materials, tutorials across ML, CV, NLP, GenAI, RAG, Agents, and more
+- **AI Technical Mentor @ [Funix](https://web.facebook.com/funix.fpt)** — I enjoy breaking down complex ideas and helping others navigate the AI/ML landscape
+- **LLM Engineer** — built RAG systems, Agentic AI pipelines, and multimodal analytics
 
 ## How to reach me
 
