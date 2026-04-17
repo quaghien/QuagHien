@@ -1,4 +1,4 @@
-# Hey, I'm Quang Hien 👋
+# Hey, I'm Quang Hien
 
 **AI Engineer · Research Assistant · Teaching Assistant**
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/made%20in-Vietnam-red?style=flat-square&logo=data:image/svg+xml;base64,..." />
@@ -11,14 +11,14 @@
 - 💬 **AI Technical Mentor @ [Funix](https://web.facebook.com/funix.fpt)** — I enjoy breaking down complex ideas and helping others navigate the AI/ML landscape
 - 🛠️ **LLM Engineer** — built RAG systems, Agentic AI pipelines, and multimodal analytics
 
-## 🧡 How to reach me
+## How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hien-ho-quang/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hienhq.ai@gmail.com)
 
 ---
 
-## 🔧 Languages and Tools
+## Languages and Tools
 
 **Languages:**
 
