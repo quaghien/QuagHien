@@ -46,9 +46,7 @@
 **Robotics & Simulation:**
 
 ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Newton](https://img.shields.io/badge/Newton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 
 **Model Serving & DevOps:**
