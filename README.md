@@ -1,6 +1,6 @@
 # Hey, I'm Quang Hien
 
-**AI Engineer · AI Researcher · Teaching Assistant**
+**AI Engineer · Research Assistant · Teaching Assistant**
 &nbsp;&nbsp;<img src="https://img.shields.io/badge/made%20in-Vietnam-red?style=flat-square&logo=data:image/svg+xml;base64,..." />
 
 ---
