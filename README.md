@@ -6,8 +6,8 @@
 ---
 
 ## About Me
-- **AI Researcher — focusing on Imitation Learning (IL), Reinforcement Learning (RL), and Conditional MDPs for robotics
-- **Teaching Assistant — building lecture materials, tutorials across ML, CV, NLP, GenAI, RAG, Agents, and more
+- **Research Assistant** — focusing on Imitation Learning (IL), Reinforcement Learning (RL), and Conditional MDPs for robotics
+- **Teaching Assistant** — building lecture materials, tutorials across ML, CV, NLP, GenAI, RAG, Agents, and more
 - **LLM Engineer** — built RAG systems, Agentic AI pipelines, and multimodal analytics
 
 ## How to reach me
